@@ -1,6 +1,6 @@
 # conax-ca
 
- Conax compatible DVB EMMG / ECMG plus working FUNCARD file.
+Experimental Conax compatible DVB EMMG / ECMG plus working FUNCARD file.
 
 Edit the files for your needs. Syskey.txt,key.txt and emm.txt.
 
@@ -23,5 +23,7 @@ Open perso.txt in an editor, copy and paste the hex values one after the other, 
 
 The last string should be "set to working mode". 
 
+
+No further support! You know what you are doing, or you don't know. 
 
 Have fun.
